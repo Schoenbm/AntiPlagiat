@@ -1,0 +1,4 @@
+TD2.c can be compiled with: *compiler* TD2.c -o file
+
+To execute it: ./file text1.txt text2.txt
+If you don't give it 2 files name, it will run on a simple basic case.
